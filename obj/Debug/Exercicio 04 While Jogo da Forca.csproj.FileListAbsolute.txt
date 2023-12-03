@@ -1,0 +1,7 @@
+C:\Users\Ornare\source\repos\Exercicio 04 While Jogo da Forca\bin\Debug\Exercicio 04 While Jogo da Forca.exe.config
+C:\Users\Ornare\source\repos\Exercicio 04 While Jogo da Forca\bin\Debug\Exercicio 04 While Jogo da Forca.exe
+C:\Users\Ornare\source\repos\Exercicio 04 While Jogo da Forca\bin\Debug\Exercicio 04 While Jogo da Forca.pdb
+C:\Users\Ornare\source\repos\Exercicio 04 While Jogo da Forca\obj\Debug\Exercicio 04 While Jogo da Forca.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercicio 04 While Jogo da Forca\obj\Debug\Exercicio 04 While Jogo da Forca.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercicio 04 While Jogo da Forca\obj\Debug\Exercicio 04 While Jogo da Forca.exe
+C:\Users\Ornare\source\repos\Exercicio 04 While Jogo da Forca\obj\Debug\Exercicio 04 While Jogo da Forca.pdb
